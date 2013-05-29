@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Dawawin
+Comment=Poetry of arab
+Comment[ar]=حفظ أشعار العرب وعرضها
+Exec=dawawin
+Icon=dawawin
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=X-Islamic-Software;GTK;Office;
+StartupNotify=false
+Name[en]=Dawawin
+Name[ar]=دواوين العرب

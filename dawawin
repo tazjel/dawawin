@@ -1,0 +1,7 @@
+#! /usr/bin/python
+# -*- coding: UTF-8 -*-
+
+from Dawawin.daw_window import main
+
+main()
+
